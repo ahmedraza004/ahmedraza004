@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ahmed Raza
 
-<!--
-**ahmedraza004/ahmedraza004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer from Saudi Arabia, specializing in payment integrations and API development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**
+- Django & Django REST Framework
+- PostgreSQL
+- Payment APIs (Stripe, PayPal)
+
+**Frontend:**
+- React & Next.js
+- Tailwind CSS
+
+## 🚀 What I'm Building
+
+Currently developing production-ready payment integration solutions for SaaS and e-commerce applications.
+
+## 📫 Connect
+
+Building in public and sharing my journey.
+
+---
+
+💼 Available for payment integration projects
